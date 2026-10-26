@@ -1,0 +1,7 @@
+pandas==3.0.5
+numpy==2.4.6
+PuLP==3.3.2
+highspy==1.11.0
+matplotlib==3.11.2
+openpyxl==3.1.5
+pytest==9.1.1

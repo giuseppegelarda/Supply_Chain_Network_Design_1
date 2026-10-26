@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.idea/
+.claude/
+
+.env
+
+# Excel lock files (created while a workbook is open)
+~$*
